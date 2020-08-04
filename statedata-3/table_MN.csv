@@ -1,0 +1,88 @@
+countyname,crash19,fatal19,rate19,crash20,fatal20,rate20,pchange
+Aitkin,10,1,10,NA,NA,NA,Null
+Anoka,274,0,0,NA,NA,NA,Null
+Becker,24,0,0,NA,NA,NA,Null
+Beltrami,18,1,5.555555555555555,NA,NA,NA,Null
+Benton,40,0,0,NA,NA,NA,Null
+Big stone,4,0,0,NA,NA,NA,Null
+Blue earth,81,1,1.2345679012345678,NA,NA,NA,Null
+Brown,13,0,0,NA,NA,NA,Null
+Carlton,21,0,0,NA,NA,NA,Null
+Carver,71,0,0,NA,NA,NA,Null
+Cass,21,0,0,NA,NA,NA,Null
+Chippewa,9,1,11.11111111111111,NA,NA,NA,Null
+Chisago,45,0,0,NA,NA,NA,Null
+Clay,32,0,0,NA,NA,NA,Null
+Clearwater,1,0,0,NA,NA,NA,Null
+Cook,2,0,0,NA,NA,NA,Null
+Cottonwood,4,0,0,NA,NA,NA,Null
+Crow wing,58,0,0,NA,NA,NA,Null
+Dakota,465,0,0,NA,NA,NA,Null
+Dodge,7,0,0,NA,NA,NA,Null
+Douglas,25,0,0,NA,NA,NA,Null
+Faribault,8,0,0,NA,NA,NA,Null
+Fillmore,14,1,7.142857142857143,NA,NA,NA,Null
+Freeborn,25,0,0,NA,NA,NA,Null
+Goodhue,47,0,0,NA,NA,NA,Null
+Grant,4,0,0,NA,NA,NA,Null
+Hennepin,NA,0,NA,NA,NA,NA,Null
+Houston,10,0,0,NA,NA,NA,Null
+Hubbard,15,1,6.666666666666667,NA,NA,NA,Null
+Isanti,27,1,3.7037037037037037,NA,NA,NA,Null
+Itasca,30,1,3.3333333333333335,NA,NA,NA,Null
+Jackson,12,1,8.333333333333334,NA,NA,NA,Null
+Kanabec,7,0,0,NA,NA,NA,Null
+Kandiyohi,43,0,0,NA,NA,NA,Null
+Kittson,0,0,NaN,NA,NA,NA,Null
+Koochiching,4,0,0,NA,NA,NA,Null
+Lac qui parle,3,0,0,NA,NA,NA,Null
+Lake,5,0,0,NA,NA,NA,Null
+Lake of woods,1,0,0,NA,NA,NA,Null
+Le sueur,14,0,0,NA,NA,NA,Null
+Lincoln,3,0,0,NA,NA,NA,Null
+Lyon,16,1,6.25,NA,NA,NA,Null
+Mahnomen,2,0,0,NA,NA,NA,Null
+Marshall,2,0,0,NA,NA,NA,Null
+Martin,14,0,0,NA,NA,NA,Null
+Mcleod,33,0,0,NA,NA,NA,Null
+Meeker,18,1,5.555555555555555,NA,NA,NA,Null
+Mille lacs,15,0,0,NA,NA,NA,Null
+Morrison,13,0,0,NA,NA,NA,Null
+Mower,30,1,3.3333333333333335,NA,NA,NA,Null
+Murray,3,0,0,NA,NA,NA,Null
+Nicollet,23,1,4.3478260869565215,NA,NA,NA,Null
+Nobles,20,0,0,NA,NA,NA,Null
+Norman,3,0,0,NA,NA,NA,Null
+Olmsted,154,1,0.6493506493506493,NA,NA,NA,Null
+Otter tail,38,1,2.6315789473684212,NA,NA,NA,Null
+Pennington,3,0,0,NA,NA,NA,Null
+Pine,24,0,0,NA,NA,NA,Null
+Pipestone,5,0,0,NA,NA,NA,Null
+Polk,18,0,0,NA,NA,NA,Null
+Pope,5,0,0,NA,NA,NA,Null
+Ramsey,713,1,0.1402524544179523,NA,NA,NA,Null
+Red lake,1,0,0,NA,NA,NA,Null
+Redwood,6,0,0,NA,NA,NA,Null
+Renville,10,1,10,NA,NA,NA,Null
+Rice,60,0,0,NA,NA,NA,Null
+Rock,9,0,0,NA,NA,NA,Null
+Roseau,2,0,0,NA,NA,NA,Null
+Scott,96,0,0,NA,NA,NA,Null
+Sherburne,69,0,0,NA,NA,NA,Null
+Sibley,8,0,0,NA,NA,NA,Null
+St. louis,187,1,0.5347593582887701,NA,NA,NA,Null
+Stearns,216,1,0.46296296296296297,NA,NA,NA,Null
+Steele,32,0,0,NA,NA,NA,Null
+Stevens,2,1,50,NA,NA,NA,Null
+Swift,4,0,0,NA,NA,NA,Null
+Todd,16,0,0,NA,NA,NA,Null
+Traverse,2,0,0,NA,NA,NA,Null
+Wabasha,12,1,8.333333333333334,NA,NA,NA,Null
+Wadena,9,1,11.11111111111111,NA,NA,NA,Null
+Waseca,9,0,0,NA,NA,NA,Null
+Washington,177,2,1.1299435028248588,NA,NA,NA,Null
+Watonwan,4,0,0,NA,NA,NA,Null
+Wilkin,6,0,0,NA,NA,NA,Null
+Winona,14,0,0,NA,NA,NA,Null
+Wright,119,0,0,NA,NA,NA,Null
+Yellow medicine,3,0,0,NA,NA,NA,Null
