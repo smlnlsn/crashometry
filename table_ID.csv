@@ -1,0 +1,45 @@
+countyname,crash19,fatal19,rate19,crash20,fatal20,rate20,pchange
+Ada,643,0,0,48,1,2.0833333333333335,Inf
+Adams,8,0,0,0,NA,NA,NA
+Bannock,137,1,0.7299270072992701,4,2,50,6750.000000000001
+Bear lake,3,NA,NA,2,NA,NA,NA
+Benewah,15,0,0,4,NA,NA,NA
+Bingham,50,0,0,8,1,12.5,Inf
+Blaine,35,3,8.571428571428571,0,0,NaN,NaN
+Boise,13,2,15.384615384615385,1,1,100,550
+Bonner,41,0,0,5,0,0,NaN
+Bonneville,111,1,0.9009009009009009,6,0,0,-100
+Boundary,6,0,0,3,0,0,NaN
+Butte,2,0,0,0,0,NaN,NaN
+Camas,3,NA,NA,0,NA,NA,NA
+Canyon,340,1,0.29411764705882354,50,4,8,2620
+Caribou,9,0,0,0,NA,NA,NA
+Cassia,34,0,0,5,NA,NA,NA
+Clark,5,NA,NA,3,NA,NA,NA
+Clearwater,10,0,0,1,NA,NA,NA
+Custer,1,0,0,0,NA,NA,NA
+Elmore,49,0,0,8,0,0,NaN
+Franklin,4,0,0,0,NA,NA,NA
+Fremont,12,0,0,2,NA,NA,NA
+Gem,7,0,0,0,1,Inf,Inf
+Gooding,18,1,5.555555555555555,3,0,0,-100
+Idaho,18,0,0,0,0,NaN,NaN
+Jefferson,22,0,0,1,1,100,Inf
+Jerome,30,3,10,11,1,9.090909090909092,-9.090909090909083
+Kootenai,152,0,0,18,0,0,NaN
+Latah,34,0,0,3,NA,NA,NA
+Lemhi,10,0,0,3,NA,NA,NA
+Lewis,3,0,0,1,0,0,NaN
+Lincoln,7,0,0,0,0,NaN,NaN
+Madison,45,2,4.444444444444445,5,0,0,-100
+Minidoka,14,0,0,5,NA,NA,NA
+Nez perce,61,1,1.639344262295082,5,0,0,-100
+Oneida,15,0,0,3,NA,NA,NA
+Owyhee,11,0,0,3,0,0,NaN
+Payette,19,0,0,1,0,0,NaN
+Power,10,NA,NA,2,NA,NA,NA
+Shoshone,17,1,5.882352941176471,4,NA,NA,NA
+Teton,6,0,0,0,NA,NA,NA
+Twin falls,115,1,0.8695652173913043,8,3,37.5,4212.5
+Valley,17,0,0,2,0,0,NaN
+Washington,7,0,0,1,NA,NA,NA

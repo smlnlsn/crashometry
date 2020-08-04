@@ -1,0 +1,8 @@
+countyname,crash19,fatal19,rate19,crash20,fatal20,rate20,pchange
+Fairfield,613,0,0,391,0,0,NaN
+Hartford,281,1,0.35587188612099646,177,1,0.5649717514124294,58.75706214689265
+Litchfield,10,0,0,4,0,0,NaN
+New haven,101,0,0,68,2,2.9411764705882355,Inf
+New london,3,0,0,5,0,0,NaN
+Tolland,10,0,0,3,0,0,NaN
+Windham,14,0,0,9,0,0,NaN
